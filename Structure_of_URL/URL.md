@@ -1,6 +1,4 @@
 # STRUCTURE OF URL
-<span style="color: green"> Some green text </span>
-<font color="green"> Some green text </font> 
 
 ### URL - Uniform Resource Locator
    * It is a string of character that is used to identify a resource on internet such as webspage, images, videos and any other type of contents.
@@ -95,7 +93,12 @@ Here is how ports are specified in a URL:
    *  `e.g., "example.com/page.html#section1"`
 
 
-`URL: https://www.example.com/directory/subdirectory/filename.html?q=keyword#section1`
+======================================================================================
+
+
+## Example
+
+### `URL: https://www.example.com/directory/subdirectory/filename.html?q=keyword#section1`
 
 ### Scheme: https
 * The scheme specifies the protocol to be used, which in this case is "https". It indicates that the resource should be accessed securely using the HTTP protocol.
